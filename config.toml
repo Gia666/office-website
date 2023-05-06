@@ -82,8 +82,8 @@ time_format_default = "2006.01.02"
 time_format_blog = "2006.01.02"
 
 [languages.zh]
-title = "华诗盈科技"
-description = "华诗盈科技官网"
+title = "Horshy"
+description = "Horshy"
 languageName ="中文"
 # Weight used for sorting.
 weight = 1
